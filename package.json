@@ -3,9 +3,9 @@
   "version": "1.0.1",
   "description": "Module for creating safe npm module names",
   "main": "index.js",
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/jpwesselink/fbnpj0nifcpjy9x81nw5fnthimudcc2syslkucfrpqiivwizjqc7rgdw2upxre8v.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jpwesselink/fbnpj0nifcpjy9x81nw5fnthimudcc2syslkucfrpqiivwizjqc7rgdw2upxre8v.git"
   },
   "bin": {
     "fbnpj0nifcpjy9x81nw5fnthimudcc2syslkucfrpqiivwizjqc7rgdw2upxre8v": "./index.js"
@@ -14,5 +14,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "JP Wesselink <jpwesselink@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "inquirer": "^0.12.0",
+    "open": "0.0.5"
+  }
 }
