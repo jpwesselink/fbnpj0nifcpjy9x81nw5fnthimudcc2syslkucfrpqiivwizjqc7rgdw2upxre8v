@@ -3,6 +3,10 @@
   "version": "1.0.1",
   "description": "Module for creating safe npm module names",
   "main": "index.js",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/jpwesselink/fbnpj0nifcpjy9x81nw5fnthimudcc2syslkucfrpqiivwizjqc7rgdw2upxre8v.git"
+  },
   "bin": {
     "fbnpj0nifcpjy9x81nw5fnthimudcc2syslkucfrpqiivwizjqc7rgdw2upxre8v": "./index.js"
   },
