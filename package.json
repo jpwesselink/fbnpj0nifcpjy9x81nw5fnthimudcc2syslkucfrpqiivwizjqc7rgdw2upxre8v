@@ -1,0 +1,14 @@
+{
+  "name": "fbnpj0nifcpjy9x81nw5fnthimudcc2syslkucfrpqiivwizjqc7rgdw2upxre8v",
+  "version": "1.0.0",
+  "description": "Module for creating safe npm module names",
+  "main": "index.js",
+  "bin" : {
+    "fbnpj0nifcpjy9x81nw5fnthimudcc2syslkucfrpqiivwizjqc7rgdw2upxre8v" : "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JP Wesselink <jpwesselink@gmail.com>",
+  "license": "MIT"
+}
