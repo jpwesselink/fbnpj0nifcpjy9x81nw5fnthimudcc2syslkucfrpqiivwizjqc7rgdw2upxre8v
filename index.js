@@ -31,7 +31,7 @@ function checkIfNameExists() {
 			if (r.statusCode !== 404) {
 				checkIfNameExists();
 			} else {
-				console.log('Created a beautiful unique available package name for you');
+				console.log('Created an unique available package name for you');
 				console.log(chalk.red.bold(name));
 				inquirer.prompt([{
 					type: 'confirm',
