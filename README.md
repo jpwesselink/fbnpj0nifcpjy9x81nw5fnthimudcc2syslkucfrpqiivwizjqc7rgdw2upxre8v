@@ -9,7 +9,7 @@ Because of [this](http://www.theregister.co.uk/2016/03/23/npm_left_pad_chaos)
 
 ### Features
 
-![fbnp](https://cloud.githubusercontent.com/assets/1814479/14029822/9e0d7128-f204-11e5-8da8-ba3d14cca1cf.gif)
+![fbnpj](https://cloud.githubusercontent.com/assets/1814479/14048314/c5757860-f2ad-11e5-8dc6-fd8b4f686cf1.gif)
 
 ### Installation
 
