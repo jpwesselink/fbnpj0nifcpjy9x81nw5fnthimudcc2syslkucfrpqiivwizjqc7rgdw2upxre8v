@@ -2,6 +2,7 @@
 
 Module for creating __badly marketable__ unique available npm module names.
 
+[View this module on npmjs.com](https://www.npmjs.com/package/fbnpj0nifcpjy9x81nw5fnthimudcc2syslkucfrpqiivwizjqc7rgdw2upxre8v)
 
 ### Why?
 
