@@ -5,7 +5,8 @@ Module for creating __unattractive__ unique available npm module names.
 
 ### Why?
 
-Because of [this](http://www.theregister.co.uk/2016/03/23/npm_left_pad_chaos)
+A little bit because of [this](http://www.theregister.co.uk/2016/03/23/npm_left_pad_chaos),
+and a little bit for fun.
 
 ### Features
 
@@ -13,7 +14,7 @@ Because of [this](http://www.theregister.co.uk/2016/03/23/npm_left_pad_chaos)
 
 ### Installation
 
-> You might need admin privileges for this
+> You might have to prefix the following with `sudo`
 
 ```
 npm install -g fbnpj0nifcpjy9x81nw5fnthimudcc2syslkucfrpqiivwizjqc7rgdw2upxre8v
