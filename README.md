@@ -1,6 +1,6 @@
 # fbnpj0nifcpjy9x81nw5fnthimudcc2syslkucfrpqiivwizjqc7rgdw2upxre8v
 
-Module for creating __unattractive__ unique available npm module names.
+Module for creating __badly marketable__ unique available npm module names.
 
 
 ### Why?
