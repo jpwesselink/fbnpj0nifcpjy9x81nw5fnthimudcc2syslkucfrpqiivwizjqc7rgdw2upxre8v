@@ -1,6 +1,6 @@
 {
   "name": "fbnpj0nifcpjy9x81nw5fnthimudcc2syslkucfrpqiivwizjqc7rgdw2upxre8v",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Module for creating safe npm module names",
   "main": "index.js",
   "repository": {
