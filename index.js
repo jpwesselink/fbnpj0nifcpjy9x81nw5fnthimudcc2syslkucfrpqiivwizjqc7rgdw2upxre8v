@@ -6,23 +6,26 @@ var crypto = require('crypto');
 var http = require('http');
 var inquirer = require('inquirer');
 var open = require('open');
+var randomWords = require('random-words');
+var UUIDgen = require('uuid');
+var useUUID = (process.argv[2] === "true");
 
-function random() {
-	var length = 64;
-	var chars = 'abcdefghijklmnopqrstuwxyzABCDEFGHIJKLMNOPQRSTUWXYZ0123456789';
-	var rnd = crypto.randomBytes(length),
-		value = new Array(length),
-		len = chars.length;
+function createNamePackage(){
+  var namePackage;
 
-	for (var i = 0; i < 64; i++) {
-		value[i] = chars[rnd[i] % len]
-	};
+  if(useUUID){
+    namePackage = UUIDgen.v4();
+  } else {
+    namePackage = randomWords({ exactly: 7, join: '-' });
+  }
 
-	return value.join('');
+  return namePackage;
 }
 
+
+
 function checkIfNameExists() {
-	var name = random();
+	var name = createNamePackage();
 	http.request({
 			method: 'HEAD',
 			host: 'registry.npmjs.org',
