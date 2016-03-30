@@ -26,8 +26,16 @@ npm install -g fbnpj0nifcpjy9x81nw5fnthimudcc2syslkucfrpqiivwizjqc7rgdw2upxre8v
 
 ```bash
 $ fbnpj0nifcpjy9x81nw5fnthimudcc2syslkucfrpqiivwizjqc7rgdw2upxre8v
-Created an unique available package name for you,
-which does not exist yet in the npm registry.
-hbjs2BKIfrFXPXkmSTGuAXeOCiw8YfOToItNBk6QZ4Z5W4mU4eEUUWCCYDu9cPM4
-? Would you like to check availability of domain names for your package? (Y/n)
+Created an unique available package name for you
+ObCOke0tzroSa9Ly1jZIYLn6lglBiXwMmcOYaMTDSDpgcqC0pHCZuNEmsROqazm8
+
+type -h for help
+```
+
+### Command line options
+
+```bash
+  -t, --type         Type of name: random64, uuid, memorable [default: "random64"]
+  -c, --checkDomain  Check availability of domain name at godaddy
+  -h, --help         Show help
 ```
