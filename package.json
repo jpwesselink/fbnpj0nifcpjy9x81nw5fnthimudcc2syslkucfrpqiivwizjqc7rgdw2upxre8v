@@ -1,30 +1,32 @@
 {
-	"name": "fbnpj0nifcpjy9x81nw5fnthimudcc2syslkucfrpqiivwizjqc7rgdw2upxre8v",
-	"version": "1.0.6",
-	"description": "Module for creating safe npm module names",
-	"main": "index.js",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/jpwesselink/fbnpj0nifcpjy9x81nw5fnthimudcc2syslkucfrpqiivwizjqc7rgdw2upxre8v.git"
-	},
-	"bin": {
-		"fbnpj0nifcpjy9x81nw5fnthimudcc2syslkucfrpqiivwizjqc7rgdw2upxre8v": "./index.js"
-	},
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"author": "JP Wesselink <jpwesselink@gmail.com>",
-	"contributors": [{
-		"name": "Krettis",
-		"email": "krettis@gmail.com"
-	}],
-	"license": "MIT",
-	"dependencies": {
-		"chalk": "^1.1.1",
-		"inquirer": "^0.12.0",
-		"open": "0.0.5",
-		"random-words": "0.0.1",
-		"uuid": "^2.0.1",
-		"yargs": "^4.3.2"
-	}
+  "name": "fbnpj0nifcpjy9x81nw5fnthimudcc2syslkucfrpqiivwizjqc7rgdw2upxre8v",
+  "version": "1.1.0",
+  "description": "Module for creating safe npm module names",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jpwesselink/fbnpj0nifcpjy9x81nw5fnthimudcc2syslkucfrpqiivwizjqc7rgdw2upxre8v.git"
+  },
+  "bin": {
+    "fbnpj0nifcpjy9x81nw5fnthimudcc2syslkucfrpqiivwizjqc7rgdw2upxre8v": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JP Wesselink <jpwesselink@gmail.com>",
+  "contributors": [
+    {
+      "name": "Krettis",
+      "email": "krettis@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "inquirer": "^0.12.0",
+    "open": "0.0.5",
+    "random-words": "0.0.1",
+    "uuid": "^2.0.1",
+    "yargs": "^4.3.2"
+  }
 }
